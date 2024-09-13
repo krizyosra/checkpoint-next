@@ -1,0 +1,46 @@
+.container {
+  
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    color: #2c3e50;
+  }
+  
+  .subtitle {
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+    color: #34495e;
+  }
+  
+  .description {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+  }
+  
+  .technologies {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+  
+  .technologyTitle {
+    font-weight: bold;
+    margin-top: 1rem;
+  }
+  
+  .technologyList {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .technologyItem {
+    margin-bottom: 0.5rem;
+  }
+  
